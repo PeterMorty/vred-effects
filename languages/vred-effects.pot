@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VRED Effects 0.1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-01 17:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: vred-effects.php:5
+msgid "Lightweight animation and interaction effects for Elementor widgets and containers."
+msgstr ""
+
+#: includes/class-elementor.php:60
+msgid "VRED Effects"
+msgstr ""
+
+#: includes/class-elementor.php:78
+msgid "Effect"
+msgstr ""
+
+#: includes/class-elementor.php:104
+msgid "Animation"
+msgstr ""
+
+#: includes/class-elementor.php:123
+msgid "Speed"
+msgstr ""
+
+#: includes/class-elementor.php:140
+msgid "Stagger (%)"
+msgstr ""
+
+#: includes/class-elementor.php:165
+msgid "Delay (ms)"
+msgstr ""
+
+#: includes/class-elementor.php:182
+msgid "Intensity (%)"
+msgstr ""
+
+#: includes/class-elementor.php:207
+msgid "Trigger position (%)"
+msgstr ""
+
+#: includes/class-elementor.php:232
+msgid "Playback"
+msgstr ""
+
+#: includes/class-elementor.php:236
+msgid "Once"
+msgstr ""
+
+#: includes/class-elementor.php:237
+msgid "Viewport"
+msgstr ""
+
+#: includes/class-elementor.php:290
+msgid "None"
+msgstr ""
+
+#: includes/class-elementor.php:291
+msgid "Words Cascade"
+msgstr ""
+
+#: includes/class-elementor.php:292
+msgid "Alternating Words"
+msgstr ""
+
+#: includes/class-elementor.php:293
+msgid "Characters Rise"
+msgstr ""
+
+#: includes/class-elementor.php:294
+msgid "Center Out"
+msgstr ""
+
+#: includes/class-elementor.php:295
+msgid "Blur Focus"
+msgstr ""
+
+#: includes/class-elementor.php:296
+msgid "Blur Lines Drift"
+msgstr ""
+
+#: includes/class-elementor.php:297
+msgid "Character Wave"
+msgstr ""
+
+#: includes/class-elementor.php:298
+msgid "Elastic Rise"
+msgstr ""
+
+#: includes/class-elementor.php:299
+msgid "Soft Scatter"
+msgstr ""
+
+#: includes/class-elementor.php:300
+msgid "Perspective Words"
+msgstr ""
+
+#: includes/class-elementor.php:301
+msgid "Character Flip"
+msgstr ""
+
+#: includes/class-elementor.php:302
+msgid "Skewed Lines"
+msgstr ""
+
+#: includes/class-elementor.php:303
+msgid "Tracking Collapse"
+msgstr ""
+
+#: includes/class-elementor.php:304
+msgid "Scramble Decode"
+msgstr ""
+
+#: includes/class-elementor.php:305
+msgid "Character Drop"
+msgstr ""
+
+#: includes/class-elementor.php:306
+msgid "Random Pop"
+msgstr ""
+
+#: includes/class-elementor.php:307
+msgid "Words From Depth"
+msgstr ""
+
+#: includes/class-elementor.php:308
+msgid "Character Arc"
+msgstr ""
+
+#: includes/class-elementor.php:309
+msgid "Soft Spiral"
+msgstr ""
+
+#: includes/class-elementor.php:310
+msgid "Reverse Wave"
+msgstr ""
+
+#: includes/class-elementor.php:311
+msgid "Focus Punch"
+msgstr ""
+
+#: includes/class-elementor.php:312
+msgid "Shiver Settle"
+msgstr ""
+
+#: includes/class-elementor.php:313
+msgid "Alternating Word Zoom"
+msgstr ""
+
+
+#: includes/class-updater.php
+msgid "Check updates"
+msgstr ""

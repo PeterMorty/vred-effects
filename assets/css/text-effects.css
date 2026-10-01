@@ -1,0 +1,16 @@
+.vred-word, .vred-char, .vred-char-mask, .vred-line {
+	display: inline-block
+}
+.vred-word {
+	white-space: nowrap
+}
+.vred-char-mask {
+	overflow: hidden;
+	vertical-align: bottom
+}
+.vred-line-wrap, .vred-line-mask {
+	display: block
+}
+.vred-line-mask {
+	overflow: hidden
+}
